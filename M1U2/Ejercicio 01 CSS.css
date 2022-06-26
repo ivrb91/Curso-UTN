@@ -1,0 +1,34 @@
+#Portada{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+#Nombre{
+    position: relative;
+    background-color: rgb(209, 127, 127);
+    text-align: center;
+    font-size: 35px;
+}
+#Datos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: grey;
+    font-family: arial;
+}
+#principal{
+    width: 70%;
+    background-color: rgb(166, 173, 173);
+}
+#sidebar{
+    width: 30%;
+   background-color: rgb(168, 185, 185);
+}
+#form{
+    display: flex;
+    background-color: rgb(240, 240, 167);
+    font-family: arial;
+}
+body{
+    background-color: beige;
+}
